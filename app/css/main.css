@@ -1,0 +1,12 @@
+body {
+  font-size: 40px;
+  width: 960px;
+  color: #fff; }
+
+body {
+  background-color: #ff0000;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
